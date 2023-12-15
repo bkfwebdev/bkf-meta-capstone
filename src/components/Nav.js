@@ -2,14 +2,13 @@ import React from 'react';
 
 const Nav = () => {
   return (
-    <nav>
-      {/* Your navigation content goes here */}
+    <nav className='lemonNav'>
       <ul>
-        <li><img></img></li>
+      
         <li>Home</li>
         <li>About</li>
         <li>Menu</li>
-        <li></li>
+     
       </ul>
     </nav>
   );

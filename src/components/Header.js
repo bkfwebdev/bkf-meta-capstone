@@ -2,8 +2,8 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <header>
-      {/* Your header content goes here */}
+    <header className='lemonHeader'>
+     Hi, I'm the header.
     </header>
   );
 }
