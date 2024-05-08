@@ -1,10 +1,16 @@
 import React from 'react';
-
+import Header from './components/Header';
+import Nav from './components/Nav';
+import Main from './components/Main';
+import Footer from './components/Footer';
 const HomePage = () => {
-  return (
-    <div>
-      {/* Your component content goes here */}
-    </div>
+    return (
+    <>
+      <Header />
+      <Nav />
+      <Main />
+      <Footer />
+    </>
   );
 };
 
