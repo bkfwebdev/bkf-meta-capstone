@@ -376,6 +376,10 @@ footer > menu {
 .reservation-form {
   padding: 2rem 0 0.5rem 0;
   text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color:#495e57;
+  background-color: rgb(195, 171, 171);
 }
 
 .reservation-form > div {
