@@ -370,7 +370,7 @@ footer > menu {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 25px;
-  border-radius: 0.5rem;
+  border-radius: 0.9rem;
 }
 
 .reservation-form {
